@@ -1,0 +1,31 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+I write code!
+
+If you want to get in touch with me, the easiest way is by DMing me on Discord **@Crinfarr#3251** or Twitter **@RB_Farr**.
+
+I do take commissions, and I can make *almost* any idea.
+
+My current priorities are:
+
+- School
+- Forgotten Fables
+- Iron Queen (TBA)
+- E.T.HS (TBA)
+- Game jams
+- playing Neon Dynasty
+
+DFTBA/[`42 75 69 6C 64 20 4F 6E 20 54 6F 64 61 79`],
+
+Crinfarr
+
+<sup>(writer of the blog)</sup>
+
+
+&nbsp;
+
+p.s. if it's currently after 2/22/22 22:22:22, I am playing destiny 2 and I will be for about 200 hours.
