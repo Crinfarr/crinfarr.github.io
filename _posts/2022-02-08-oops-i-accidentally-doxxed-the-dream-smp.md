@@ -5,7 +5,7 @@ title: How to accidentally make a minecraft doxxing tool
 ---
 # I wish this was clickbait but I'm actually just dumb
 
-So about a year ago I was scanning the internet for minecraft servers using an app called (Masscan)[https://github.com/robertdavidgraham/masscan] when I accidentally stumbled upon the dream smp.
+So about a year ago I was scanning the internet for minecraft servers using an app called [Masscan](https://github.com/robertdavidgraham/masscan) when I accidentally stumbled upon the dream smp.
 Yes, really.
 
 You see, when you fetch a minecraft server's stats, you also get a list containing things like max players, the favicon and motd, and **a small list of currently online players.**
@@ -15,7 +15,7 @@ You see, when you fetch a minecraft server's stats, you also get a list containi
 Luckily, it's whitelisted. <sup>otherwise i would be in big trouble.</sup>
 However, that got me thinking.
 
-One of Masscan's advertised features is its ability to (scan the entire internet in around 5 minutes,)[https://thechief.io/c/editorial/how-to-scan-the-internet-in-5-minutes/] which is unbelievably fast by any standard.  Throttling back the bandwidth to something like 30 thousand pings per second still gives me a *very* high chance of finding every online minecraft server on a given port within a day.
+One of Masscan's advertised features is its ability to [scan the entire internet in around 5 minutes,](https://thechief.io/c/editorial/how-to-scan-the-internet-in-5-minutes/) which is unbelievably fast by any standard.  Throttling back the bandwidth to something like 30 thousand pings per second still gives me a *very* high chance of finding every online minecraft server on a given port within a day.
 
 So what did I do? Glad you asked! something awful that will never see the light of day.
 
