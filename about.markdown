@@ -27,5 +27,3 @@ Crinfarr
 
 
 &nbsp;
-
-p.s. if it's currently after 2/22/22 22:22:22, I am playing destiny 2 and I will be for about 200 hours.
