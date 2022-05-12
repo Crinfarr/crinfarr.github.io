@@ -7,7 +7,9 @@ title: "Making a \"Magic: The Gathering\" rules engine"
 # This may have been A Mistake.
 
 First thing's first: Yes, Magic Online is going to be a better version of whatever I make.  However, magic online costs Money and doesn't support custom cards, so I will keep my superiority complex, thank you very much dear reader.
-Currently there are 3 mainstream ways of playing magic on the internet.
+
+Anyway, currently there are 3 main ways of playing magic on the internet.
+
 ![the mechanically consistent one](/assets/images/20220512/Arena.png)
 > MTG Arena, an official and free-to-play online version
 
@@ -59,6 +61,8 @@ This is a long term project, and therefore will have its own category in this bl
 I've been thinking of making this for weeks now, though, so it's unlikely to end up as yet another idea I ADHDed myself out of doing.
 
 So far, I've written classes for decks, play formats, and cards.
+
+
 ![there's a lot of shit that goes into a single card actually](/assets/images/20220512/cardTypedef.png)
 > this is the amount of data that a card contains, according to rule 200.1 in the Magic Comprehensive Rules guide (page 39)
 
