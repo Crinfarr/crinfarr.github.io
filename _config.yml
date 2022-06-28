@@ -32,7 +32,7 @@ twitter_username: RB_Farr
 github_username:  Crinfarr
 
 # Build settings
-remote-theme: minima
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
