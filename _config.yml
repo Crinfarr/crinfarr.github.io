@@ -23,9 +23,6 @@ email: contact@crinfarr.io
 google_analytics: G-N8Q4TECMHG
 description: >- # this means to ignore newlines until "baseurl:"
   the internet's worst nightmare.
-  no not like *everyone* the internet
-  i mean like
-  like ill take my roommates' internet down while making smarthome code
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://crinfarr.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RB_Farr
@@ -36,6 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
