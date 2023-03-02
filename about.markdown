@@ -12,12 +12,10 @@ I do take commissions, and I can make *almost* any idea.
 
 My current priorities are:
 
-- School
+- Work
 - Forgotten Fables
-- Iron Queen (TBA)
-- E.T.HS (TBA)
-- Game jams
-- playing Neon Dynasty
+- Destiny 2
+- (see current discord status)
 
 DFTBA/[`42 75 69 6C 64 20 4F 6E 20 54 6F 64 61 79`],
 
