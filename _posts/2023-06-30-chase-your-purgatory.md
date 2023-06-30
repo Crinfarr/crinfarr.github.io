@@ -1,7 +1,7 @@
 ---
 layout:  post
 
-title: Things I learned from programming at a corporate level
+title: "Things I learned from programming at a corporate level""
 
 date: 2023-06-30 13:52 -0600
 
@@ -73,7 +73,7 @@ Multiple times this month i've come in to work and found that the test logger I 
 
 ![his name is jack](/assets/images/20230630/jack.png)
 
->  this guy is the pinnacle of my skills
+> this guy is the pinnacle of my skills
 
 Anyway, on to the most important thing I learned:
 
@@ -88,7 +88,6 @@ Anyway, I gotta figure out what to do with my life now.
 Maybe I'll make a programming language, or finish one of the 7 unfinished projects on this blog so far.
 
 or maybe i'll take a nap.
-
 
 (with  corporation accent)
 
