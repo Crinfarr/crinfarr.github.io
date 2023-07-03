@@ -1,7 +1,7 @@
 ---
 layout:  post
 
-title: "Things I learned from programming at a corporate level""
+title: Things I learned from programming at a corporate level
 
 date: 2023-06-30 13:52 -0600
 
